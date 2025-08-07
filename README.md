@@ -4,7 +4,7 @@
 Design an interactive, professional dashboard using Power BI to provide sales and profitability insights for business stakeholders. The dashboard should highlight key metrics (KPIs), identify trends, and enable decision-makers to filter and explore the data effectively.
 
 ## Dataset
-Source: Superstore Sales Dataset (Kaggle)
+Source: Superstore Sales Dataset (Kaggle) - https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 Records: ~10,000 rows
 Features: Order Date, Category, Segment, Region, Sales, Profit, etc.
 File Name: Superstore.csv
