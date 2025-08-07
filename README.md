@@ -49,7 +49,3 @@ Order Date (Year/Month)
 - Use seasonality trends to plan inventory and marketing.
 - Analyze low-profit months to optimize pricing and reduce discounts.
 - Create segment-specific offers for Home Office and Corporate clients.
-
-
-## 📂 Folder Structure
-
